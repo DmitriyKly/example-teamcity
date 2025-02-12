@@ -3,9 +3,6 @@
   <name>Build</name>
   <description />
   <settings ref="ExampleTeamcity_123">
-    <options>
-      <option name="artifactRules" value="target/* .jar =&gt; target" />
-    </options>
     <parameters />
     <build-runners>
       <runner id="Maven2_2" name="" type="Maven2">
